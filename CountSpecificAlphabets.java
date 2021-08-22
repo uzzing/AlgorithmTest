@@ -3,6 +3,7 @@ package Level1;
 import java.util.List;
 import java.util.Arrays;
 
+// 2021.08.22
 class CountSpecificAlphabets {
 	boolean solution(String s) {
 		boolean answer = true;
